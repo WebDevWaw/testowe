@@ -1,2 +1,2 @@
 # testowe
-Testowe repo
+To niczemu nie służy. Ot experymenty w github
